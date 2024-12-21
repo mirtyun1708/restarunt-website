@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-# Date:
+# Date:24.102024
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -174,7 +174,18 @@ text-align: center;
 </footer>
 </body>
 </html>
+```
+
 # OUTPUT:
+
+![Screenshot 2024-12-21 154822](https://github.com/user-attachments/assets/fb674019-f08d-4cbf-974a-4a01a80d4a69)
+
+![Screenshot 2024-12-21 154837](https://github.com/user-attachments/assets/6da29c61-0876-4162-a302-dab191a4c4aa)
+
+![Screenshot 2024-12-21 154852](https://github.com/user-attachments/assets/0a92760c-a13d-4e7b-9546-28fa11c57b32)
+
+![Screenshot 2024-12-21 154906](https://github.com/user-attachments/assets/c60a8c69-249e-4e99-86c5-60718a2647e0)
+
 
 
 
